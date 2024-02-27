@@ -1,0 +1,46 @@
+* {
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    background-image: url(./img/background.png);
+    background-color: #2E1012;
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    overflow: hidden;
+}
+.logo-fundo {
+    max-width: 95%;
+    margin-left: 45px;
+}
+.coluna-um {
+    margin-top: 300px;
+    margin-left: 100px;
+    position: absolute;
+}
+.coluna-dois {
+    background-color: #F3CC4D;
+    width: 600px;
+    height: 950px;
+    margin-top: -20px;
+    margin-left: 600px;
+    position: flex;
+    
+}
+.coluna-tres{
+    margin-top: 300px;
+    margin-left: 400px;
+}
+.logo{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.text{
+    margin-top: 100px;
+    text-align: center;
+}
+.contrast{
+    /* align-items: center; */
+    margin-left: 225px;
+    margin-top: 35px;
+}
